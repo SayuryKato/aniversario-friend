@@ -1,0 +1,9 @@
+main{
+    display: none;
+}
+article{
+    display: block;
+}
+article p{
+    display: flex;
+}
